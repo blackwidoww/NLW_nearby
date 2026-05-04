@@ -11,5 +11,5 @@ export function Welcome() {
                 Tenha cupons de vantagem para usar em seus estabelecimentos favoritos.
             </Text>
         </View>
-    )
+    );
 }
