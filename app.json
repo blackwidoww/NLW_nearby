@@ -9,9 +9,12 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/images/splash-icon.png",
+      "image": "./src/assets/logo.png",
       "resizeMode": "contain",
-      "backgroundColor": "#257F49"
+      "backgroundColor": "#257F49",
+      "plugins": [
+        "expo-router"
+      ]
     },
     "ios": {
       "supportsTablet": true

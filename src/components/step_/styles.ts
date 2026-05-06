@@ -9,6 +9,8 @@ export const styles = StyleSheet.create({
 
     details: {
         flex: 1,
+        marginLeft: 10,
+        
     },
     
     title: {
